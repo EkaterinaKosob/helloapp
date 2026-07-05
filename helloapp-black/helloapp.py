@@ -1,7 +1,12 @@
 def hello():
-    print("hello")
+    print("hello everyone")
 
 hello()
 
 def greetWhite():
     print("Hello, White!")
+
+def greetBlack():
+    print("Hello, Black!")
+
+greetBlack()
