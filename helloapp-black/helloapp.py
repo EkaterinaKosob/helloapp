@@ -3,3 +3,5 @@ def hello():
 
 hello()
 
+def greetWhite():
+    print("Hello, White!")
